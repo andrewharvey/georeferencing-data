@@ -1,0 +1,22 @@
+# README
+
+## Info 
+So far I've used one of two methods to georeference public domain maps from nla.gov.au.
+
+The first is to (with the aid of the scripts in [here](https://github.com/andrewharvey/georeferencing-scripts)) simply create a list of ground control points using another map with known coordinates. The output of this process is a .points file.
+
+The second is to use gridlines present on the map to georeference to that. This process was again aided with [these scripts](https://github.com/andrewharvey/georeferencing-scripts). The output of the process is a .svg file. A .points file can be generated from these .svg using the scripts in georeferencing-scripts, but for convenience I've also uploaded the .points file for these .svgs.
+
+
+## Usage ##
+
+If you already have tools to integrate this georeferencing data into your existing systems, use that. I personally have been using [my scripts](https://github.com/andrewharvey/georeferencing-scripts) to warp these to subsequently push them out to a mercator tile directory or to a GroundOverlay KML.
+
+
+## License ##
+
+Because I've derived the ground control point locations for the non-svg ones from www.openstreetmap.org data, this data is licensed under the [Creative Commons Attribution-ShareAlike 2.0 license](http://creativecommons.org/licenses/by-sa/2.0/).
+
+If your legal interpretation is that I do not have to follow the ShareAlike of the [www.openstreetmap.org](www.openstreetmap.org) data, then I release this data under the [Creative Commons CC0 license](http://creativecommons.org/publicdomain/zero/1.0/).
+
+The first option is safest.
