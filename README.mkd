@@ -7,6 +7,8 @@ The first is to (with the aid of the scripts in [here](https://github.com/andrew
 
 The second is to use gridlines present on the map to georeference to that. This process was again aided with [these scripts](https://github.com/andrewharvey/georeferencing-scripts). The output of the process is a .svg file. A .points file can be generated from these .svg using the scripts in georeferencing-scripts, but for convenience I've also uploaded the .points file for these .svgs.
 
+The grid-distance.csv file should have an entry for each svg file which contains the distance between each gridline in degree (this is actually the horizontal distance, but I've never seen non-square gridlines).
+
 
 ## Usage ##
 
