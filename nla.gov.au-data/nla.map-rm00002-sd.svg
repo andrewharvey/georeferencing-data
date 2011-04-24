@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47pre4 r22446"
+   width="10636"
+   height="5900"
+   sodipodi:docname="nla.map-rm00002-sd.sid.jpg.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="911"
+     inkscape:window-height="993"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.22627417"
+     inkscape:cx="7953.764"
+     inkscape:cy="4679.6836"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <image
+     xlink:href="nla.map-rm00002-sd.sid.jpg"
+     width="10636"
+     height="5900"
+     id="image12"
+     x="0"
+     y="0" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 684.375,520.31249 479.6875,-7.8125 445.3125,-3.90625 452.3438,-1.5625 479.6875,-4.6875 454.6875,-3.90625 479.6875,-3.90625 448.4375,3.90625 476.5625,-2.34375 450,2.34375"
+     id="lat50_lon-30-60"
+     inkscape:label="#path2818" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 6700.7813,514.84374 446.875,3.125 470.3125,0.78125 444.5312,1.5625 472.6563,2.34375 446.0937,-1.5625 446.0938,3.125 475,-1.5625"
+     id="lat50_lon100-170"
+     inkscape:label="#path2820" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 690.625,1159.375 475.7813,-7.0313 446.875,-3.125 449.2187,-3.9062 479.6875,-2.3438 453.9063,-2.3437 477.3437,-3.125 446.875,-0.7813 476.5625,0.7813 453.125,0"
+     id="lat40_lon-30-60"
+     inkscape:label="#path2822" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 693.75,1707.0312 476.5625,-2.3437 447.6563,-1.5625 451.5625,-3.9063 476.5625,-2.3437 450.7812,-2.3438 477.3438,-3.9062 449.2187,3.125 473.4375,-2.3438 453.125,0.7813 450,1.5625 475,1.5625 449.2188,1.5625 467.884,2.4688 441.9417,0 476.1923,3.3145 446.3611,1.1049 475.0874,-2.2097 441.9417,2.2097 445.2563,-1.1049 477.2971,5.5243"
+     id="lat30_lon-30-170"
+     inkscape:label="#path2826" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 698.26795,2223.0447 475.08735,0 450.7806,-1.1048 449.6757,-4.4194"
+     id="lat20_lon-30-0"
+     inkscape:label="#path2828" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 3473.1096,2208.6816 447.4661,-1.1048 476.7446,0.5524 450.7806,3.867 449.6757,-2.2097 478.4019,0 446.3612,4.4194 465.1437,4.4194 443.0466,2.2097 480.6116,-4.4194 444.1515,3.3146 467.3533,1.1048 444.1515,-6.6291 444.1514,0 482.8214,1.1048"
+     id="lat20_lon30-170"
+     inkscape:label="#path2830" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 700.47766,2695.9224 475.08734,-2.2097 455.2,-3.3146 447.466,-6.6291"
+     id="lat10_lon-30-0"
+     inkscape:label="#path2832" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 3473.6621,2677.1399 451.8854,1.1048 470.668,0 452.9902,3.3146 449.6758,-4.4194 477.297,1.1048 448.5709,2.2097 462.934,2.2097 443.0466,3.3146 479.5068,-1.1049 444.1514,-2.2097 471.7728,1.1049 444.1515,-1.1049 446.3611,-4.4194 473.9825,0"
+     id="lat10_lon30-170"
+     inkscape:label="#path2834" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 706.00193,3152.2272 472.87767,-2.2097 454.0951,-4.4194 452.9903,-5.5243 475.0874,-5.5242 447.466,-3.3146 467.3534,2.2097 448.5708,-3.3146 475.0874,6.6292 451.8854,-2.2097 451.8855,0 472.8776,-1.1049 447.466,2.2097 468.4583,-3.3145 443.0466,1.1048 473.9825,-4.4194 448.5709,2.2097 469.5631,-1.1049 443.0466,-2.2097 449.6757,-2.2097 468.4582,3.3146"
+     id="lat0_lon-30-170"
+     inkscape:label="#path2836" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 712.63105,3608.5321 472.87765,-3.3146 451.8854,-6.6291 447.4661,-1.1049 477.297,-5.5242 447.466,-4.4195 469.5631,0 447.4661,-1.1048 470.6679,2.2097 452.9903,1.1049 455.2,1.1048 470.6679,-1.1048 447.466,2.2097 470.668,-5.5243 446.3612,-1.1049 472.8776,-5.5242 445.2563,4.4194 471.7728,-1.1049 444.1515,-4.4194 445.2563,1.1049 471.7728,-1.1049"
+     id="lat-10_lon-30-170"
+     inkscape:label="#path2838" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 714.84076,4094.668 470.66794,-5.5243 451.8854,-4.4194 449.6758,-1.1048 470.6679,4.4194 448.5709,-1.1049 471.7728,-9.9437 444.1514,0 473.9826,1.1049 450.7805,1.1048 450.7806,-7.7339 483.9262,-2.2098 449.6757,-1.1048 461.8291,6.6291 446.3612,0 477.2971,-2.2097 444.1514,-1.1048 471.7728,0 441.9418,-3.3146 448.5708,-1.1049 469.5631,-3.3145"
+     id="lat-20_lon-30-170"
+     inkscape:label="#path2840" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 2090.3844,4588.5379 472.8777,-1.1049 446.3611,-5.5242 469.5631,-4.4195 447.4661,0 473.9825,1.1049 450.7805,-1.1049 451.8855,-1.1048 478.4019,-4.4194"
+     id="lat-30_lon0-80"
+     inkscape:label="#path2842" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 6699.8368,4568.6505 444.1514,-3.3146 477.2971,-5.5242 444.1514,1.1048 469.5631,0 444.1515,1.1049 443.0466,-1.1049 473.9825,-1.1048"
+     id="lat-30_lon100-170"
+     inkscape:label="#path2844" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 723.6796,5143.1748 475.0874,-1.1049 451.8854,-5.5243 449.6757,-3.3145 468.4583,0 448.5708,2.2097 462.934,-8.8388 450.7806,-2.2098 471.7728,-1.1048 451.8854,0 450.7806,-4.4194 480.6116,-3.3146 447.466,-1.1048 473.9826,-5.5243 444.1514,-4.4194 475.0874,-3.3146 443.0466,0 471.7728,3.3146 444.1514,-5.5243 444.1515,0 469.5631,-3.3146"
+     id="lat-40_lon-30-170"
+     sodipodi:nodetypes="ccccccccccccccccccccc"
+     inkscape:label="#path2846" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 6695.9698,1144.1545 443.599,3.8669 475.0874,2.2098 444.1514,1.6572 473.4301,0 444.1515,-1.1048 445.2563,1.6573 477.8495,2.7621"
+     id="lat40_lon100-170"
+     inkscape:label="#path2882" />
+</svg>
